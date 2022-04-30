@@ -1,0 +1,71 @@
+.border{
+    border: solid rgb(32, 22, 22);
+    background-color: rgba(244, 0, 0, 0.200);
+    border-radius: 0px 10px 10px 0px;
+    height: 70px;
+    width: 300px; 
+    margin:  0px 40px 0.5px 0px;
+    display: block; 
+
+}
+
+.border2{
+    border: solid rgb(32, 22, 22);
+    background-color: rgba(251, 0, 0, 0.300);
+    border-radius: 0px 10px 10px 0px;
+    height: 70px;
+    width: 300px;
+    margin: 0px 40px 0.5px 200px;
+    display: block;
+   
+}
+.border3{
+    border: solid rgb(32, 22, 22);
+    background-color: rgba(255, 0, 0, 0.5);
+    border-radius: 0px 10px 10px 0px;
+    height: 70px;
+    width: 300px;
+    margin:  0.5px 40px 0.5px 400px;
+    display: block;
+   
+}
+.border4{
+    border: solid rgb(32, 22, 22);
+    background-color: rgba(243, 0, 0, 0.7);
+    border-radius: 0px 10px 10px 0px;
+    height: 70px;
+    width: 300px;
+    margin:  0px 40px 0.5px 600px;
+    display: block;
+   
+}
+.border5{
+    border: solid rgb(32, 22, 22);
+    background-color: rgba(235, 0, 0, 0.8);
+    border-radius: 0px 10px 10px 0px;
+    height: 70px;
+    width: 300px;
+    margin:  0px 40px 0.5px 800px;
+    display: block;
+   
+}
+.border6{
+    border: solid rgb(32, 22, 22);
+    background-color: rgba(237, 0, 0, 0.9);
+    border-radius: 0px 10px 10px 0px;
+    height: 70px;
+    width: 300px;
+    margin:  0px 40px 0.5px 1000px;
+    display: block;
+   
+}
+.border7{
+    border: solid rgb(32, 22, 22);
+    background-color: rgb(255, 2, 2);
+    border-radius: 0px 10px 10px 0px;
+    height: 70px;
+    width: 300px;
+    margin:  0px 40px 0.5px 1200px;
+    display: block;
+   
+}
